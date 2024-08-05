@@ -1,0 +1,6 @@
+{
+  "first_name": "Daba",
+  "middle_name": "Didi",
+  "last_name": "Du",
+  "date_of_birth": "02/02/1992"
+}
